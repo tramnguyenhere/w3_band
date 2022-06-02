@@ -1,0 +1,70 @@
+/* Reset CSS */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* 
+1. Outside to inside
+2. Top to bottom
+3. Overall to detail
+*/
+
+/* 
+1. Position
+2. Size (width, height)
+3. Color
+4 Style (font style, shape,...)
+*/
+
+#main {
+
+}
+
+#header {
+    height: 46px;
+    background-color: rgb(0, 0, 0);
+}
+
+#nav {
+    
+}
+
+#nav li {
+    display: inline-block;
+}
+
+#nav li a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    line-height: 46px;
+    padding: 0 24px;
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+#nav li:hover a {
+    color: #000;
+    background-color: #ccc;
+}
+
+#nav .subnav {
+    display: none;
+}
+
+#slider {
+
+}
+
+#content {
+
+}
+
+#footer {
+
+}
