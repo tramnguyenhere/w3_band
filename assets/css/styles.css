@@ -123,8 +123,7 @@ html {
   position: relative;
   margin-top: 46px;
   padding-top: 50%;
-  background: url(/Study/HTML/w3_band/assets/img/chicago.jpg) top center / cover
-    no-repeat;
+  background: url(/assets/img/chicago.jpg) top center / cover no-repeat;
 }
 
 #slider .text-content {
@@ -212,6 +211,7 @@ html {
 
 .tour-section {
   background-color: #000;
+  display: block;
 }
 
 .tour-date-list {
@@ -245,6 +245,56 @@ html {
   line-height: 24px;
   text-align: center;
   border-radius: 50%;
+}
+
+/* Place */
+.place-lists {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-left: -8px;
+  margin-right: -8px;
+}
+
+.place-items {
+  padding: 0 8px;
+  margin-bottom: 32px;
+}
+
+.place-img {
+  display: block;
+}
+
+.place-content {
+  padding: 15px;
+  background-color: #fff;
+}
+
+.place-heading {
+  font-size: 15px;
+}
+
+.place-sub-heading {
+  font-size: 15px;
+  opacity: 0.6;
+  margin-top: 30px;
+}
+
+.place-description {
+  font-size: 15px;
+  margin-top: 30px;
+}
+
+.place-tickets-button {
+  background-color: #000;
+  color: #fff;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+.place-tickets-button:hover {
+  background-color: rgb(204, 204, 204);
+  color: black;
 }
 
 #footer {
