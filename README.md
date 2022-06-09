@@ -4,8 +4,11 @@ This project is a clone of The Band website from w3school. It was built during t
 
 # Image
 
-![image](https://user-images.githubusercontent.com/47014132/149120770-381c8ea9-9d57-40b7-bd10-3d39d4dce42a.png)
-![image](https://user-images.githubusercontent.com/47014132/149120793-0c75511e-88f4-4e69-b836-dabd1eeac884.png)
+<img width="1424" alt="Screenshot 2022-06-10 at 2 17 04" src="https://user-images.githubusercontent.com/57455557/172960537-c0dc3f8a-95ff-4372-8292-25a67a626e52.png">
+
+<img width="1425" alt="Screenshot 2022-06-10 at 2 18 01" src="https://user-images.githubusercontent.com/57455557/172960622-59a57e01-b63e-4b78-b336-76ad76c680cf.png">
+
+<img width="1416" alt="Screenshot 2022-06-10 at 2 18 14" src="https://user-images.githubusercontent.com/57455557/172960674-894e7cec-cc09-4313-831e-207ba6d0dbf2.png">
 
 # Demo
 
