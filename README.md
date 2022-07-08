@@ -12,7 +12,7 @@ This project is a clone of The Band website from w3school. It was built during t
 
 # Demo
 
-[Demo](https://the-band-tram-nguyen.netlify.app/)
+https://the-band-tramnguyenhere.netlify.app
 
 ## How to build and run
 
